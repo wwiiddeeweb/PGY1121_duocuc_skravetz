@@ -9,13 +9,6 @@ from numpy import random as rd
 
 matrix = np.zeros((3,3))
 
-''' for i in range(len(matrix[0])):
-  matrix[0][i] = rd.randint(0,100)
-  for j in range(len(matrix[1])):
-    matrix[1][j] = rd.randint(0,100)
-    for k in range (len(matrix[2])):
-      matrix[2][k] = rd.randint(0,100)
- '''
 
 for i in range(len(matrix)):
   for j in range(len(matrix[i])):
