@@ -1,0 +1,22 @@
+Centro Médico DUOC
+
+1.	Registrar Paciente 
+2.	Atención Paciente 
+3.	Consultar Datos Paciente 
+4.	Salir
+
+
+•	Rut debe ser un número entero que se encuentre dentro del rango de 5000000 y 99999999. 
+•	Edad debe ser un número entero que se encuentre en el rango 0 y 110. 
+•	Sexo debe ser un carácter que sólo acepta la letra f o m (mayúscula y minúscula). 
+•	PS debe ser una cadena de caracteres que sólo acepta los valores “ISAPRE” y “FONASA” 
+•	Correo Debe ser una cadena de caracteres que contenga al menos un carácter “@”, ejemplo → juan@lopez. 
+
+
+# variables
+
+rutPaciente = 0
+edadPaciente = 0
+sexoPaciente = ""
+prevPacientre = ""
+emailPaciente = ""
