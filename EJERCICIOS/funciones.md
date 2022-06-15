@@ -1,0 +1,5 @@
+- definir función
+- parámetros
+- bloque interno
+- argumentos / ejecución
+- return / pass
